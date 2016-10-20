@@ -7,6 +7,8 @@ import HorizontalLinearLayout from './lib/HorizontalLinearLayout';
 import LinearLayout from './lib/LinearLayout';
 import VerticalLinearLayout from './lib/VerticalLinearLayout';
 
+import Overlay from  './lib/Overlay';
+
 export default {
 	BorderLayout,
 	Center,
@@ -14,5 +16,6 @@ export default {
 	Header,
 	HorizontalLinearLayout,
 	LinearLayout,
-	VerticalLinearLayout
+	VerticalLinearLayout,	
+	Overlay
 };
